@@ -1,3 +1,3 @@
 tonidermawan.net
 ==
-My personal note in repository
+Blog tentang seorang tukang ngoding
