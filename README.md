@@ -1,3 +1,3 @@
 tonidermawan.net
 ==
-Blog tentang seorang tukang ngoding
+Jadi catatan ini akan jadi log(catatan-red) gw ya, yaiyalah, ini kan blog gw -_-...
