@@ -1,3 +1,1 @@
-tonidermawan.net
-==
-Jadi catatan ini akan jadi log(catatan-red) gw ya, yaiyalah, ini kan blog gw -_-...
+@tonidermawan
