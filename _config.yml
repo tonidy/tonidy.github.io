@@ -1,7 +1,7 @@
 title: tonidy.log
 description: Tulisan seseorang yang demen sama IT
 
-url: http://tonidy.com/
+url: https://www.tonidy.com/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
