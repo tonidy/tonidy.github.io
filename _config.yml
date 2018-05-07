@@ -1,13 +1,13 @@
 title: tonidy.log
-description: catatan cowok yang ngoprek IT dan seputar kehidupannya
+description: Tulisan seseorang yang demen sama IT
 
-url: http://tonidermawan.net/
+url: http://tonidy.com/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 paginate: 5
 
 navigation:
@@ -22,7 +22,7 @@ social:
    github: tonidy
    twitter: tonidermawan
    facebook: tonidermawan
-   email: toni.dy2@gmail.com
+   email: tonidy@outlook.com
 
 google_analytics: "UA-66024598-1"
 
